@@ -1,4 +1,4 @@
-# tugas-1-primedev
+# Popular Anime Apps
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+Not Responsive yet
